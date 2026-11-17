@@ -139,5 +139,5 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
   </a>
 </p>
 
-Неофициальный клиент. Не Mojang / Microsoft.  
-Unofficial. Not Mojang / Microsoft.
+Официальный Horizon. Качай с horizonlauncher.net.  
+Official Horizon. Download from horizonlauncher.net.
